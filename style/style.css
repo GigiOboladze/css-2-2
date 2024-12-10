@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    align-items: center;
+    justify-content: center;
+    padding: 12px 80px;
+    margin-left: 390px;
+    vertical-align: middle;
+    width: 1140px;
+}
+#uli, nav, li{
+   display: inline-block;
+}
+#uli {
+    vertical-align: middle;
+    margin-top: -44px
+}
+#about {
+    color: #FF5DA3;
+    font-size: 18px;
+    margin-right: 20px;
+    margin-left: 110px;
+}
+#what {
+    color: #323232;
+    font-size: 18px;
+    margin-right: 20px;
+}
+#contact {
+    color: #323232;
+    font-size: 18px;
+    margin-right: 20px;
+}
+#help {
+    color: #323232;
+    font-size: 18px;
+    margin-right: 110px;
+}
+#contactus {
+    color: #FFF;
+    font-size: 14px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    background-color: #00AC25;
+    border-color: #00AC25;
+}
+#nextmove {
+    vertical-align: middle;
+}
+#boxtwo {
+    text-align: center;
+    margin-top: 233px;
+    display: inline-block;
+    margin-left: 302px;
+    width: 1316px;
+}
+h1 {
+    color: #000;
+    font-size: 72px;
+}
+#vard {
+    color: #FF5DA3;
+}
+#pone {
+    color: #000;
+    font-size: 24px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+h2 {
+    font-size: 48px;
+    color: #000;
+    margin-bottom: 24px;
+}
+#ptwo {
+    color: #6941C6;
+    font-size: 24px;
+    margin-bottom: 24px;
+}
+#become {
+    border-radius: 8px;
+    background-color: #00AC25;
+    padding: 16px 24px;
+    color: #FFF;
+    border-color: #00AC25;
+}
+footer {
+    background-color: #53389E;
+    height: 128px;
+    margin-top: 551px;
+}
+#oli {
+    list-style-type: none;
+    vertical-align: middle;
+    display: inline-block;
+}
+#untitled {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 352px;
+    margin-top: 50px;
+}
+#footerbox {
+    vertical-align: middle;
+    display: inline-block;
+}
+li {
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: 50px;
+    color: #E9D7FE;
+    font-size: 16px;
+}
+#over {
+    margin-left: 210px;
+    margin-right: 20px;
+}
+#features {
+    margin-right: 20px;
+}
+#pricing {
+    margin-right: 20px;
+}
+#careers {
+    margin-right: 20px;
+}
+#helps {
+    margin-right: 20px;
+}
+#privacy {
+    margin-right: 192px;
+}
+#copy {
+    display: inline-block;
+    vertical-align: middle;
+    color: #D6BBFB;
+    font-size: 16px;
+    margin-top: 50px;
+}
